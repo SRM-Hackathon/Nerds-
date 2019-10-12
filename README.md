@@ -7,4 +7,4 @@
 </t> Tensorflow </b>
 
 # layers in CNN
-</t> Convolution and maxpooling 
+</t> Convolution , maxpooling , flatten , Dense 
