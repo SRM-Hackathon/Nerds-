@@ -1,0 +1,11 @@
+-----Welcome----
+Source = Potheri
+Destination = Mahabalipuram
+
+Route 1 distance = 46 km
+Route 2 distance = 48 km
+
+No. of pothole in Route 1  = 0
+no. of pothole in Route 2  = 0
+
+Preferred Route : Route 1
