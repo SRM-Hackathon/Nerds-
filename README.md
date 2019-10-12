@@ -10,4 +10,4 @@
 </t> Convolution , maxpooling , flatten , Dense 
 
 # Database
-</t> https://www.kaggle.com/sachinpatel21/pothole-image-dataset  Sachine Patel  (Source : Kaggle ) <br>
+</t> https://www.kaggle.com/sachinpatel21/pothole-image-dataset   Sachine Patel   (  Source  :  Kaggle  ) <br>
